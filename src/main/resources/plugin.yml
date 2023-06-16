@@ -1,0 +1,11 @@
+name: ColorSwitch
+version: '${project.version}'
+main: me.jsinco.colorswitch.ColorSwitch
+api-version: 1.19
+author: 'Jsinco'
+depend: [PlaceholderAPI]
+commands:
+  colorswitch:
+    description: Swap your glow color!
+    usage: /<command>
+    permission: colorswitch.command
