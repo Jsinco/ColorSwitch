@@ -5,4 +5,4 @@ Allow players to swap glow colors with TAB and PlaceholderAPI support
 Permission: colorswitch.command
 
 Set permissions so players can use specific colors with:
-colorswitch.<color>
+colorswitch.{color}
